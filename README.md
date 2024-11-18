@@ -1,1 +1,1 @@
-# Gesti-n-de-Socios
+# Gestión-de-Socios
