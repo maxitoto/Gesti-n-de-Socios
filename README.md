@@ -1,6 +1,6 @@
 # Gestión-de-Socios
 
-111111111111111111111111111111
+UNIX
 
 mkdir repoclone
 cd repoclone
@@ -21,6 +21,3 @@ touch runServers.sh
 chmod +x runServers.sh
 
 ./runServers.sh
-
-
-npm install @vitejs/plugin-react
