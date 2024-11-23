@@ -16,14 +16,10 @@ cd server
 npm install express dotenv
 cd ..
 
-# Crear y ejecutar el script runServers.sh
 touch runServers.sh
 
-(cd client && npm run dev) &
-(cd server && node server.js) &
-wait
-
 chmod +x runServers.sh
+
 ./runServers.sh
 
 
